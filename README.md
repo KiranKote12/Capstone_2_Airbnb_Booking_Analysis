@@ -4,11 +4,4 @@ This dataset focuses on Airbnb's extensive dataset since 2008, covering 48,895 o
 
 
 Analysis
-I perform Handling Missing Data, Cleaning Data,Data Transformation,Data Filtering, and Categorical Variables.
-Requirements
-language #python Microsoft_Excel Pandas NumPy matplotlib seaborn GoogleColab
-
-Screenshot
-I am attaching some charts here:-
-
-    
+I perform Handling Missing Data, Cleaning Data,Data Transformation,Data Filtering, and Categorical Variables
